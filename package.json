@@ -1,0 +1,11 @@
+{
+  "name": "preentrega2-santiagodiantoniopaz3",
+  "version": "1.0.0",
+  "description": "SASSLPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Santiago Paz",
+  "license": "ISC"
+}

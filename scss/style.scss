@@ -1,0 +1,60 @@
+
+@import '../scss/colores';
+@import '../scss/meadiaq';
+@import '../scss/header';
+@import '../scss/containerprod';
+
+
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+li a {
+    text-decoration: none;
+}
+
+.divcont {
+    width: 100%;
+    height: 500px;
+}
+
+.carrou {
+    display: flex;
+    padding-left: 5%;
+    padding-bottom: 2%;
+}
+
+.aside1{
+display: flex;
+flex-direction: row;
+padding-left: 5%;
+}
+
+.list{
+    background-color: $rosa1;
+    color: $verde1;
+}
+
+.parrafo{
+padding-left: 5%;
+text-align: left;
+color: $verde1;
+}
+
+.footer{
+display: flex;
+justify-content: center;
+font-size: 50px;
+padding-top: 5%;
+background-color: $rosa2;
+color: $verde1;
+
+}
+body {
+background-color: $rosa1;
+}
+
+
+
+
