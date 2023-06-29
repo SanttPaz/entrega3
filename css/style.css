@@ -2,9 +2,7 @@
   .bodyresp {
     padding-left: 0%;
   }
-  .video1 {
-    width: 60%;
-  }
+  
   .aside1 {
     width: 30%;
   }
@@ -80,7 +78,6 @@
 }
 
 .img1 {
-  flex: none;
   grid-area: img1;
   text-align: center;
 }
