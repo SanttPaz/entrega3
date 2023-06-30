@@ -3,6 +3,7 @@
 @import '../scss/meadiaq';
 @import '../scss/header';
 @import '../scss/containerprod';
+@import '../scss/button';
 
 
 *{
@@ -12,6 +13,11 @@
 
 li a {
     text-decoration: none;
+}
+.liprod {
+
+    list-style-type: none;
+
 }
 
 .divcont {

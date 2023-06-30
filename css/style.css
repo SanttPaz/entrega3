@@ -2,7 +2,9 @@
   .bodyresp {
     padding-left: 0%;
   }
-  
+  .video1 {
+    width: 60%;
+  }
   .aside1 {
     width: 30%;
   }
@@ -161,6 +163,17 @@
   height: 90%;
 }
 
+.button1, .button2 {
+  background-color: rgb(140, 204, 140);
+  margin: 2px;
+  width: 130px;
+  font-size: 15px;
+}
+
+.button2 {
+  background-color: rgb(154, 171, 129);
+}
+
 * {
   margin: 0%;
   padding: 0%;
@@ -168,6 +181,10 @@
 
 li a {
   text-decoration: none;
+}
+
+.liprod {
+  list-style-type: none;
 }
 
 .divcont {

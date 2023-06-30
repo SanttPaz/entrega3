@@ -1,0 +1,14 @@
+.button1 {
+
+background-color:rgb(140, 204, 140);
+margin: 2px;
+width: 130px;
+font-size: 15px;
+}
+
+.button2 {
+
+@extend .button1;
+background-color: rgb(154, 171, 129);
+
+}
