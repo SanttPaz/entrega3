@@ -27,15 +27,13 @@ li a {
 
 .carrou {
     display: flex;
-    padding-left: 5%;
+    justify-content: center;
+    
     padding-bottom: 2%;
+
 }
 
-.aside1{
-display: flex;
-flex-direction: row;
-padding-left: 5%;
-}
+
 
 .list{
     background-color: $rosa1;
@@ -43,8 +41,10 @@ padding-left: 5%;
 }
 
 .parrafo{
-padding-left: 5%;
-text-align: left;
+font-size: large;
+padding-bottom: 5%;
+padding-top: 4%;
+text-align: center;
 color: $verde1;
 }
 
