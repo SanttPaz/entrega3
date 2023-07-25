@@ -1,6 +1,23 @@
 
+
 @media screen and (max-width: 992px)
+
+
 {
+
+    .container {
+        display: grid;
+        width: 90%;
+        height: 700px;
+        grid-template-columns: 1fr 1fr; 
+        grid-template-rows: 1fr 1fr 1fr; 
+        gap: 0px 20px; 
+        grid-template-areas: 
+        "img1 img2"
+        "img3 img4"
+        "img5 img6"; 
+    }
+
 .bodyresp{
 
     padding-left: 0%;
@@ -16,11 +33,7 @@
 
 width: 100%;
 }
-.container {
-    display: flex;
-    flex-flow: column;
-    width: 90%;
-}
+
 .img1 { 
     width: 90%;
 }

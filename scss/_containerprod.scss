@@ -42,21 +42,28 @@
 
 .imgGrid1{
     @include img1a6;
+    background-image: url("../Pre-entrega/Imagenes/jpg2.jpg");
+
 }
 
 .imgGrid2{
     @include img1a6;
+
+    background-image: url("../Pre-entrega/Imagenes/jpg5.jpg");
 }
 .imgGrid3{
     @include img1a6;
+    background-image: url("../Pre-entrega/Imagenes/jpg6.jpg");
 }
 
 .imgGrid4{
     @include img1a6;
+    background-image: url("../Pre-entrega/Imagenes/jpg4.jpg");
 }
 
 .imgGrid5{
     @include img1a6;
+    background-image: url("../Pre-entrega/Imagenes/jpg3.jpg");
 }
 
 .imgGrid6{
